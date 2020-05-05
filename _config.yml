@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Home"
+title                    : "About me"
 title_separator          : "-"
-name                     : &name "Home"
-description              : &description "Home"
+name                     : &name "About me"
+description              : &description "About me"
 url                      : https://askarpour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "askarpour.github.io"
