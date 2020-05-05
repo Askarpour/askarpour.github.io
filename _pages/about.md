@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 I'm currently a postDoc at McMaster university working on Safety analysis of autonomous vehicles.
-I started as a postDoc at Politecnico di Milano from Jan 2018 to March 2020, right after receiving my PhD (Nov 2014 - Jan 2018) under supervision of [Prof. Dino Mandrioli](http://home.deib.polimi.it/mandriol/SitoItaliano/sitowebpersit.html).
-
+Previously, I was as a postDoc at Politecnico di Milano from Jan 2018 to March 2020, where I received my PhD (Nov 2014 - Jan 2018) under supervision of [Prof. Dino Mandrioli](http://home.deib.polimi.it/mandriol/SitoItaliano/sitowebpersit.html). My research interests are formal verification, model-based safety analysis, and application of model checking in autonomous systems.
 
 <h3>Education</h3>
 
