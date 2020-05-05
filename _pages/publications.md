@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p>Journals</p>
+<h2>Journals</h2>
 ======
 * “Formal Model of Human Erroneous Behavior for Safety Analysis in Collaborative Robotics”(2019). In: Robotics and Computer-Integrated Manufacturing.
 * “Safety Assessment of Collaborative Robotics through Automated Formal Verification”(2019). In: IEEE Transactions on Robotics.
