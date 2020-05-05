@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-CA"
-# title                    : "Mehrnoosh Askarpour"
-# title_separator          : "-"
-# name                     : &name "Mehrnoosh Askarpour"
-# description              : &description "PostDoc Researcher at McMaster"
+title                    : "Home"
+title_separator          : "-"
+name                     : &name "Home"
+description              : &description "Home"
 url                      : https://askarpour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "askarpour.github.io"
