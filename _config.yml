@@ -56,19 +56,19 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+# twitter:
+#   username               : &twitter
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
+# og_image                 :  # Open Graph/Twitter default site image
+# # For specifying social profiles
+# # - https://developers.google.com/structured-data/customize/social-profiles
+# social:
+#   type                   : # Person or Organization (defaults to Person)
+#   name                   : # If the user or organization name differs from the site's name
+#   links: # An array of links to social media profiles
 
 
 # Analytics
@@ -85,7 +85,7 @@ author:
   bio              : "PostDoc @ McMaster"
   location         : "Toronto area, Ca"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=trX0zn4AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
