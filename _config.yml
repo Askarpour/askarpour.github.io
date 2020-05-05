@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Mehrnoosh Askarpour"
-title_separator          : "-"
-name                     : &name "Mehrnoosh Askarpour"
-description              : &description "PostDoc Researcher at McMaster"
+# title                    : "Mehrnoosh Askarpour"
+# title_separator          : "-"
+# name                     : &name "Mehrnoosh Askarpour"
+# description              : &description "PostDoc Researcher at McMaster"
 url                      : https://askarpour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "askarpour.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Mehrnoosh Askarpour"
   avatar           : "me.png"
   bio              : "PostDoc @ McMaster"
-  location         : "Toronto area, Ca"
+  location         : "Hamilton, Ca"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=trX0zn4AAAAJ"
