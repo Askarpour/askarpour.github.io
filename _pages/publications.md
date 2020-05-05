@@ -7,33 +7,33 @@ author_profile: true
 
 Journals
 ======
-* “FormalModelofHumanErroneousBehaviorforSafetyAnalysisinCollaborativeRobotics”(2019).In:Roboticsand Computer-Integrated Manufacturing.
-* “SafetyAssessmentofCollaborativeRoboticsthroughAutomatedFormalVerification”(2019).In:IEEETransactions on Robotics.
+* “Formal Model of Human Erroneous Behavior for Safety Analysis in Collaborative Robotics”(2019). In: Robotics and Computer-Integrated Manufacturing.
+* “Safety Assessment of Collaborative Robotics through Automated Formal Verification”(2019). In: IEEE Transactions on Robotics.
 
 Conference Proceedings
 ======
-* “Mindthegap:RoboticMissionPlanningMeetsSoftwareEngineering”(2020).In:Formalise:8thInternational Conference On Formal Methods In Software Engineering. (Accepted).
-* “Model-drivenRiskAnalysisfortheDesignofSafeCollaborativeRoboticApplications”(2020).In:1stIEEE International Conference on Human-Machine Systems. (Accepted).
-* “FormalMethodsinDesigningCriticalCyber-PhysicalSystems”(2019).In:FromSoftwareEngineeringtoFormal Methods and Tools, and Back.
-* “AHuman-in-the-LoopPerspectiveforSafetyAssessmentinRoboticApplications”(2017).In:PerspectivesofSystem Informatics - 11th International Andrei P. Ershov Informatics Conference, PSI.
-* “ModelingOperatorBehaviorintheSafetyAnalysisofCollaborativeRoboticApplications”(2017).In:SAFECOMP: Computer Safety, Reliability, and Security - 36th International Conference.
-* “RiskAssessmentinCollaborativeRobotics”(2016).In:FM-DS:FormalMethodsDoctoralSymposium.Vol.1744. CEUR-WS.
-* “SAFER-HRC:SafetyAnalysisThroughFormalvERificationinHuman-RobotCollaboration”(2016).In:SAFECOMP: Computer Safety, Reliability, and Security - 35th International Conference.
+* “Mind the gap: Robotic Mission Planning Meets Software Engineering”(2020). In: Formalise: 8th International Conference On Formal Methods In Software Engineering. (Accepted).
+* “Model-driven Risk Analysis for the Design of Safe Collaborative Robotic Applications”(2020). In: 1st IEEE International Conference on Human-Machine Systems. (Accepted).
+* “Formal Methods in Designing Critical Cyber-Physical Systems”(2019). In: From Software Engineering to Formal Methods and Tools, and Back.
+* “A Human-in-the-Loop Perspective for Safety Assessment in Robotic Applications”(2017). In: Perspectives of System Informatics - 11th International Andrei P. Ershov Informatics Conference, PSI.
+* “Modeling Operator Behavior in the Safety Analysis of Collaborative Robotic Applications”(2017). In: SAFECOMP: Computer Safety, Reliability, and Security - 36th International Conference.
+* “Risk Assessment in Collaborative Robotics”(2016). In: FM-DS:Formal Methods Doctoral Symposium. Vol.1744. CEUR-WS.
+* “SAFER-HRC: Safety Analysis Through Formal vERification in Human-Robot Collaboration”(2016). In: SAFECOMP: Computer Safety, Reliability, and Security - 35th International Conference.
 
 Book Chapters
 ======
-* “PIROS:Cooperative,SafeandReconfigurableRoboticCompanionforCNCPalletsLoad/UnloadStations”(2020). In: Bringing Innovative Robotic Technologies from Research Labs to Industrial End-users - The Experience of the European Robotics Challenges, pp. 57–96.
+* “PIROS: Cooperative, Safe and Reconfigurable Robotic Companion for CNC Pallets Load/Unload Stations”(2020). In: Bringing Innovative Robotic Technologies from Research Labs to Industrial End-users - The Experience of the European Robotics Challenges, pp. 57–96.
 
 Project Deliverables
 ======
-* InfrastructureasCodeManagement-Sodalite(SOftwareDefinedAppLicationInfrastructuresmanagemenTand Engineering) (2020). Milan, Italy: Politecnico di Milano.
-* SafetyAssuranceatGMandUsingModelManagementtoSupportItDeliverableD8:Suggestionsonhowtointegrate aspects of the system/software development and safety processes at General Motors (2019). Hamilton, Canada: MCMaster University.
+* Infrastructure as CodeManagement-Sodalite (SOftware Defined AppLication Infrastructures managemenT and Engineering) (2020). Milan, Italy: Politecnico di Milano.
+* Safety Assurance at GM and Using Model Management to Support It Deliverable D8: Suggestions on how to integrate aspects of the system/software development and safety processes at General Motors (2019). Hamilton, Canada: MCMaster University.
 
 Presentations
 ======
-* FormalVerification-basedRiskAssessmentforIndustrialHuman-RobotCollaboration,PrimaConferenzaItalianadi Robotica e Macchine Intelligenti (2019).
-* Cooperative,safeandreconfigurableroboticcompanionforCNCpalletsload/unloadstations:design-timeautomatesafety assessment ,Showcasing Workshop European Robotics Challenges (2017).
-* SAFER-HRC,FirstItalianWorkshoponEmbeddedSystems(2016).
+* Formal Verification-based Risk Assessment for Industrial Human-Robot Collaboration, Prima Conferenza Italiana di Robotica e Macchine Intelligenti (2019).
+* Cooperative, safe and reconfigurable robotic companion for CNC pallets load/unload stations: design-time automate safety assessment ,Showcasing Workshop European Robotics Challenges (2017).
+* SAFER-HRC, First Italian Workshop on Embedded Systems(2016).
 
 Reviewer for (selection)
 ======
