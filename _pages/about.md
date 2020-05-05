@@ -27,4 +27,4 @@ Work experience
   * Politecnico di Milano, Milan, Italy
 
 * IT Security Consultant (Oct 2013 - Oct 2014)
-  * PriceWaterhouseCoopers  
+  * PriceWaterhouseCoopers, Milan, Italy
