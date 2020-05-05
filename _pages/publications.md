@@ -35,14 +35,14 @@ author_profile: true
 * Cooperative, safe and reconfigurable robotic companion for CNC pallets load/unload stations: design-time automate safety assessment ,Showcasing Workshop European Robotics Challenges (2017).
 * SAFER-HRC, First Italian Workshop on Embedded Systems(2016).
 
-<h2>Reviewer for (selection)</h2>
+<!-- <h2>Reviewer for (selection)</h2>
 
-* RCIM(2019)
-* FSDM(2018)
-* IEEE-Access(2018–9)
-* SAFECOMP(2017–2020)
-* IEEEBigData(2016)
+* RCIM (2019)
+* FSDM (2018)
+* IEEE-Access (2018–9)
+* SAFECOMP (2017–2020)
+* IEEEBigData (2016)
 
 <h2>Program Committee</h2>
 
-* AREA2020
+* AREA2020 -->
