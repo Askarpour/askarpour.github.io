@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "About me"
+title                    : " "
 title_separator          : "-"
 name                     : &name ""
 description              : &description ""
