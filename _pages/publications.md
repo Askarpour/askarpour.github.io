@@ -11,8 +11,8 @@ author_profile: true
 * “Safety Assessment of Collaborative Robotics through Automated Formal Verification”(2019). In: IEEE Transactions on Robotics.
 
 <h3>Conference Proceedings</h3>
-* “StatisticalModelCheckingofHuman-RobotInteractionScenarios”(2020).In:FirstWorkshoponAgentsandRobots for reliable Engineered Autonomy.
-* “Co-SimulationofHuman-RobotCollaboration:fromTemporalLogicto3DSimulation”(2020).In:FirstWorkshopon Agents and Robots for reliable Engineered Autonomy.
+* “Statistical Model Checking of Human-Robot Interaction Scenarios”(2020).In:FirstWorkshoponAgentsandRobots for reliable Engineered Autonomy.
+* “Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation”(2020).In:FirstWorkshopon Agents and Robots for reliable Engineered Autonomy.
 * “Mind the gap: Robotic Mission Planning Meets Software Engineering”(2020). In: Formalise: 8th International Conference On Formal Methods In Software Engineering.
 * “Model-driven Risk Analysis for the Design of Safe Collaborative Robotic Applications”(2020). In: 1st IEEE International Conference on Human-Machine Systems.
 * “Formal Methods in Designing Critical Cyber-Physical Systems”(2019). In: From Software Engineering to Formal Methods and Tools, and Back.
