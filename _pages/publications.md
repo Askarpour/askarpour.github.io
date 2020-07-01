@@ -27,7 +27,7 @@ author_profile: true
 <h3>Project Deliverables</h3>
 
 * Infrastructure as CodeManagement-Sodalite (SOftware Defined AppLication Infrastructures managemenT and Engineering) (2020). Milan, Italy: Politecnico di Milano.
-* Safety Assurance at GM and Using Model Management to Support It Deliverable D8: Suggestions on how to integrate aspects of the system/software development and safety processes at General Motors (2019). Hamilton, Canada: MCMaster University.
+* Safety Assurance and Using Model Management to Support It: Suggestions on how to integrate aspects of the system/software development and safety processes (2019). Hamilton, Canada: MCMaster University.
 
 <h3>Presentations</h3>
 
