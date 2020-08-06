@@ -14,7 +14,7 @@ Previously, I was a Postdoc at Politecnico di Milano from Jan 2018 to March 2020
 <h3>Education</h3>
 
 * Ph.D in Computer Science, Politecnico di Milano, 2018
-* M.S. in Computer Systems Engineering, Politecnico di Milano, 2013
+* M.S. in Computing Systems Engineering, Politecnico di Milano, 2013
 * B.S. in Computer Science, University of Tehran, 2009
 
 <h3>Work experience</h3>
