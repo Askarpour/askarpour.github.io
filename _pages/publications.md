@@ -11,21 +11,21 @@ author_profile: true
 * “Safety Assessment of Collaborative Robotics through Automated Formal Verification”(2019). In: IEEE Transactions on Robotics.
 
 <h3>Conference Proceedings</h3>
-* “Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation”(2020).In:FirstWorkshopon Agents and Robots for reliable Engineered Autonomy.
-* “Formal Verification of Human-Robot Interaction in Healthcare Scenarios”(2020). In Software Engineering and Formal Methods (SEFM).
-* “Statistical Model Checking of Human-Robot Interaction Scenarios”(2020).In:First Workshop on Agents and Robots for reliable Engineered Autonomy.
-* “Mind the gap: Robotic Mission Planning Meets Software Engineering”(2020). In: 8th International Conference On Formal Methods In Software Engineering (Formalise).
-* “Teaching Formal Methods: An Experience Report”(2020). In: First international workshop on Frontiers in Software Engineering Education.
-* “Model-driven Risk Analysis for the Design of Safe Collaborative Robotic Applications”(2020). In: 1st IEEE International Conference on Human-Machine Systems.
-* “Formal Methods in Designing Critical Cyber-Physical Systems”(2019). In: From Software Engineering to Formal Methods and Tools, and Back.
-* “A Human-in-the-Loop Perspective for Safety Assessment in Robotic Applications”(2017). In: Perspectives of System Informatics - 11th International Andrei P. Ershov Informatics Conference, PSI.
-* “Modeling Operator Behavior in the Safety Analysis of Collaborative Robotic Applications”(2017). In: SAFECOMP: Computer Safety, Reliability, and Security - 36th International Conference.
+* “Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation” (2020).In: First Workshopon Agents and Robots for reliable Engineered Autonomy.
+* “Formal Verification of Human-Robot Interaction in Healthcare Scenarios” (2020). In: Software Engineering and Formal Methods - SEFM.
+* “Statistical Model Checking of Human-Robot Interaction Scenarios” (2020).In: First Workshop on Agents and Robots for reliable Engineered Autonomy.
+* “Mind the gap: Robotic Mission Planning Meets Software Engineering” (2020). In: 8th International Conference On Formal Methods In Software Engineering - Formalise.
+* “Teaching Formal Methods: An Experience Report” (2020). In: First international workshop on Frontiers in Software Engineering Education.
+* “Model-driven Risk Analysis for the Design of Safe Collaborative Robotic Applications” (2020). In: 1st IEEE International Conference on Human-Machine Systems.
+* “Formal Methods in Designing Critical Cyber-Physical Systems” (2019). In: From Software Engineering to Formal Methods and Tools, and Back.
+* “A Human-in-the-Loop Perspective for Safety Assessment in Robotic Applications” (2017). In: Perspectives of System Informatics - 11th International Andrei P. Ershov Informatics Conference - PSI.
+* “Modeling Operator Behavior in the Safety Analysis of Collaborative Robotic Applications” (2017). In: SAFECOMP: Computer Safety, Reliability, and Security - 36th International Conference.
 * “Risk Assessment in Collaborative Robotics”(2016). In: FM-DS:Formal Methods Doctoral Symposium. Vol.1744. CEUR-WS.
-* “SAFER-HRC: Safety Analysis Through Formal vERification in Human-Robot Collaboration”(2016). In: SAFECOMP: Computer Safety, Reliability, and Security - 35th International Conference.
+* “SAFER-HRC: Safety Analysis Through Formal vERification in Human-Robot Collaboration” (2016). In: SAFECOMP: Computer Safety, Reliability, and Security - 35th International Conference.
 
 <h3>Book Chapters</h3>
 
-* “PIROS: Cooperative, Safe and Reconfigurable Robotic Companion for CNC Pallets Load/Unload Stations”(2020). In: Bringing Innovative Robotic Technologies from Research Labs to Industrial End-users - The Experience of the European Robotics Challenges, pp. 57–96.
+* “PIROS: Cooperative, Safe and Reconfigurable Robotic Companion for CNC Pallets Load/Unload Stations” (2020). In: Bringing Innovative Robotic Technologies from Research Labs to Industrial End-users - The Experience of the European Robotics Challenges, pp. 57–96.
 
 <h3>Project Deliverables</h3>
 
@@ -33,10 +33,10 @@ author_profile: true
 * Safety Assurance and Using Model Management to Support It: Suggestions on how to integrate aspects of the system/software development and safety processes (2019). Hamilton, Canada: MCMaster University.
 
 <h3>Presentations</h3>
-
+* Safety Assessment of Collaborative Robotics Through Automated Formal Verification, International Conference on Robotics and Automation ICRA (2020).
 * Formal Verification-based Risk Assessment for Industrial Human-Robot Collaboration, Prima Conferenza Italiana di Robotica e Macchine Intelligenti (2019).
-* Cooperative, safe and reconfigurable robotic companion for CNC pallets load/unload stations: design-time automate safety assessment ,Showcasing Workshop European Robotics Challenges (2017).
-* SAFER-HRC, First Italian Workshop on Embedded Systems(2016).
+* Cooperative, safe and reconfigurable robotic companion for CNC pallets load/unload stations: design-time automate safety assessment, Showcasing Workshop European Robotics Challenges (2017).
+* SAFER-HRC, First Italian Workshop on Embedded Systems (2016).
 
 <!-- <h3>Reviewer for (selection)</h3>
 
