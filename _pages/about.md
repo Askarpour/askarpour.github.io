@@ -20,7 +20,7 @@ Previously, I was a Postdoc at Politecnico di Milano from Jan 2018 to March 2020
 <h3>Work experience</h3>
 
 * PostDoc (April 2020 - Ongoing)
-  * McMaster University, Hamilton, Ca
+  * McMaster University, Hamilton, Canada
 
 * PostDoc (Feb 2018 - March 2020)
   * Politecnico di Milano, Milan, Italy
