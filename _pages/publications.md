@@ -13,6 +13,7 @@ author_profile: true
 <h3>Conference Proceedings</h3>
 * “Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation” (2020).In: First Workshopon Agents and Robots for reliable Engineered Autonomy.
 * “Formal Verification of Human-Robot Interaction in Healthcare Scenarios” (2020). In: Software Engineering and Formal Methods - SEFM.
+* “Generalizing an Exactly-1 SAT Solver for Arbitrary Numbers of Variables, Clauses, and K” (2020). In: 1st Quantum Software Engineering and Technology Workshop (QSET).
 * “Statistical Model Checking of Human-Robot Interaction Scenarios” (2020).In: First Workshop on Agents and Robots for reliable Engineered Autonomy.
 * “Mind the gap: Robotic Mission Planning Meets Software Engineering” (2020). In: 8th International Conference On Formal Methods In Software Engineering - Formalise.
 * “Teaching Formal Methods: An Experience Report” (2020). In: First international workshop on Frontiers in Software Engineering Education.
