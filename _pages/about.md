@@ -33,6 +33,6 @@ Previously, I was a Postdoc at Politecnico di Milano from Jan 2018 to March 2020
 
 Email: askarpom@mcmaster.ca
 
-[Twitter] (https://twitter.com/M_Askarpour)
+[Twitter](https://twitter.com/M_Askarpour)
 
-[LinkedIn] (https://www.linkedin.com/in/m-askarpour/)
+[LinkedIn](https://www.linkedin.com/in/m-askarpour/)
