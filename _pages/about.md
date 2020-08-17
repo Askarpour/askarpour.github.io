@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Postdoc at McMaster university working on safety analysis of autonomous vehicles.
-Previously, I was a Postdoc at Politecnico di Milano from Jan 2018 to March 2020, where I received my PhD (Nov 2014 - Jan 2018) under supervision of [Prof. Dino Mandrioli](http://home.deib.polimi.it/mandriol/SitoItaliano/sitowebpersit.html). My research interests are formal verification, model-based safety analysis, and application of model checking in autonomous systems.
+I'm currently a Postdoc at [Mcscert Research Team](https://www.mcscert.ca/mcscert-research-team/), Department of Computing and Software, McMaster university and work on safety analysis of autonomous vehicles.
+Previously, I was a Postdoc at [Deepse Group](https://www.deepse.deib.polimi.it/), Politecnico di Milano from Jan 2018 to March 2020, where I received my PhD (Nov 2014 - Jan 2018) under supervision of [Prof. Dino Mandrioli](http://home.deib.polimi.it/mandriol/SitoItaliano/sitowebpersit.html). My research interests are formal verification, model-based safety analysis, and application of model checking in autonomous systems.
 
 <h3>Education</h3>
 
