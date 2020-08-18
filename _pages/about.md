@@ -31,7 +31,7 @@ Previously, I was a Postdoc at [Deepse Group](https://www.deepse.deib.polimi.it/
 
 <h3>Contact</h3>
 
-Email: askarpom@mcmaster.ca
+Email: askarpom  at  mcmaster  dot  ca
 
 [Twitter](https://twitter.com/M_Askarpour)
 
