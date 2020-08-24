@@ -16,8 +16,8 @@ author_profile: true
 * “Generalizing an Exactly-1 SAT Solver for Arbitrary Numbers of Variables, Clauses, and K” (2020). In: 1st Quantum Software Engineering and Technology Workshop (QSET).
 * “Statistical Model Checking of Human-Robot Interaction Scenarios” (2020).In: First Workshop on Agents and Robots for reliable Engineered Autonomy.
 * “Mind the gap: Robotic Mission Planning Meets Software Engineering” (2020). In: 8th International Conference On Formal Methods In Software Engineering - Formalise.
-* “Teaching Formal Methods: An Experience Report” (2020). In: First international workshop on Frontiers in Software Engineering Education.
 * “Model-driven Risk Analysis for the Design of Safe Collaborative Robotic Applications” (2020). In: 1st IEEE International Conference on Human-Machine Systems.
+* “Teaching Formal Methods: An Experience Report” (2019). In: First international workshop on Frontiers in Software Engineering Education.
 * “Formal Methods in Designing Critical Cyber-Physical Systems” (2019). In: From Software Engineering to Formal Methods and Tools, and Back.
 * “A Human-in-the-Loop Perspective for Safety Assessment in Robotic Applications” (2017). In: Perspectives of System Informatics - 11th International Andrei P. Ershov Informatics Conference - PSI.
 * “Modeling Operator Behavior in the Safety Analysis of Collaborative Robotic Applications” (2017). In: SAFECOMP: Computer Safety, Reliability, and Security - 36th International Conference.
