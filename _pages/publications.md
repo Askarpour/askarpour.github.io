@@ -34,6 +34,7 @@ author_profile: true
 * Safety Assurance and Using Model Management to Support It: Suggestions on how to integrate aspects of the system/software development and safety processes (2019). Hamilton, Canada: MCMaster University.
 
 <h3>Presentations</h3>
+* Assurance of Complex Software-Intensive Systems using WorkFlow+, MODELS Tutorial Track (2020). https://workflowplus.github.io/.
 * Safety Assessment of Collaborative Robotics Through Automated Formal Verification, International Conference on Robotics and Automation ICRA (2020).
 * Formal Verification-based Risk Assessment for Industrial Human-Robot Collaboration, Prima Conferenza Italiana di Robotica e Macchine Intelligenti (2019).
 * Cooperative, safe and reconfigurable robotic companion for CNC pallets load/unload stations: design-time automate safety assessment, Showcasing Workshop European Robotics Challenges (2017).
