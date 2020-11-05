@@ -10,7 +10,9 @@ author_profile: true
 * “Formal Model of Human Erroneous Behavior for Safety Analysis in Collaborative Robotics”(2019). In: Robotics and Computer-Integrated Manufacturing.
 * “Safety Assessment of Collaborative Robotics through Automated Formal Verification”(2019). In: IEEE Transactions on Robotics.
 
-<h3>Conference Proceedings</h3>
+<h3>Conference Proceedings and Workshops</h3>
+* “How to Formally Model Human in Collaborative Robotics” (2020). In: Second Workshop on Formal Methods for Autonomous Systems.
+* “A Model-driven Approach for the Formal Analysis of Human-Robot Interaction Scenarios” (2020). In: IEEE International Conference On Systems, Man, And Cybernetics.
 * “Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation” (2020).In: First Workshopon Agents and Robots for reliable Engineered Autonomy.
 * “Formal Verification of Human-Robot Interaction in Healthcare Scenarios” (2020). In: Software Engineering and Formal Methods - SEFM.
 * “Generalizing an Exactly-1 SAT Solver for Arbitrary Numbers of Variables, Clauses, and K” (2020). In: 1st Quantum Software Engineering and Technology Workshop (QSET).
