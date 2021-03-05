@@ -19,7 +19,7 @@ I Implemented a [component](https://github.com/SODALITE-EU/iac-blueprint-builder
 
 My research interests are formal verification, model-based safety analysis, and application of model checking in autonomous systems and robotics.
 
-<h3>News</h3>
+<h3><span class="redText">red</span> News</h3>
 
 As of Aprile 2021, I'll be a Software Safety Engineer at Automated Driving & Active Safety - General Motors Canada.
 
