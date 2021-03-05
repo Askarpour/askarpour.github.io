@@ -38,7 +38,7 @@ author_profile: true
 <h3>My PhD Thesis</h3>
 * Safer-HRC: a methodology for safety assessment through formal verification in human-robot collaboration (Jan 2020). Politecnico di Milano, Milan, Italy.
 
-<h3>Co-Supervision of MSc Students Thesis/h3>
+<h3>Co-Supervision of MSc Students Thesis </h3>
 * Tiryakiler,Omer(2019).Co-simulationOfHuman-robotCollaboration(COSIM-HRC):FromTemporalLogicTo3DMorse. Politecnico di Milano.
 * Buran,Federico(2018).Model-drivenriskanalysisforthedesignofsafecollaborativeroboticapplications.Politecnicodi Milano.
 * Lestingi,LiviaandSamueleLongoni(2017).HRC-TEAM:AModel-drivenApproachtoFormalVerificationandDeployment of Collaborative Robotic Applications. Politecnico di Milano.
