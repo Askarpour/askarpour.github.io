@@ -26,6 +26,6 @@ author_profile: true
 
 <h3> Courses at Cefriel</h3>
 
-* Programming in Python, Dec 2019 , Instructore
-* Programming in Python, Feb 2019 , Instructore
-* Programming in Python, Nov 2018 , Instructore
+* Programming in Python, Dec 2019 , Instructore.
+* Programming in Python, Feb 2019 , Instructore.
+* Programming in Python, Nov 2018 , Instructore.
