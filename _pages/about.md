@@ -17,7 +17,7 @@ Previously, I was a Postdoc at [Deepse Group](https://www.deepse.deib.polimi.it/
 I also shortly worked with [Prof. Di Nitto](https://dinitto.faculty.polimi.it/) on [SDOALITE European Project](https://www.sodalite.eu/).  The goal of the project is to increase the simplicity of deploying heterogeneous systems to enable developers to describe their applications once, using high level semantic abstractions and targeting generic abstracted execution platform to bring-up a runtime bootstrap environment. 
 I Implemented a [component](https://github.com/SODALITE-EU/iac-blueprint-builder) that creates Infrastructure as Code blueprints in TOSCA notation from model instances defined in the project, whose output later is deployed by the user through the SDOALITE IDE. 
 
-My research interests are formal verification, model-based safety analysis, and application of model checking in autonomous systems.
+My research interests are formal verification, model-based safety analysis, and application of model checking in autonomous systems and robotics.
 
 <h3>News</h3>
 
