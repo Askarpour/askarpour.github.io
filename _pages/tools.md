@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: /
 title: "Tools"
 permalink: /tools/
 author_profile: true
