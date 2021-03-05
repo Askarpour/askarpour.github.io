@@ -25,7 +25,7 @@ author_profile: true
 * Formal Methods for concurrent and real-time systems, Spring 2017, TA, Instructor: [Prof. Dino Mandrioli](http://home.deib.polimi.it/mandriol/SitoItaliano/sitowebpersit.html).
 * Formal Methods for concurrent and real-time systems, Spring 2016, TA, Instructor: [Prof. Dino Mandrioli](http://home.deib.polimi.it/mandriol/SitoItaliano/sitowebpersit.html).
 
-<h3> Courses at [Cefriel](https://www.cefriel.com/it/)</h3>
+<h3> Courses at</h3>[Cefriel](https://www.cefriel.com/it/)
 
 * Programming in Python, Dec 2019 , Instructor.
 * Programming in Python, Feb 2019 , Instructor.
