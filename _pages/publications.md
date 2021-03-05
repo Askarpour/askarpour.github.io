@@ -35,6 +35,14 @@ author_profile: true
 * Infrastructure as CodeManagement-Sodalite (SOftware Defined AppLication Infrastructures managemenT and Engineering) (2020). Milan, Italy: Politecnico di Milano.
 * Safety Assurance and Using Model Management to Support It: Suggestions on how to integrate aspects of the system/software development and safety processes (2019). Hamilton, Canada: MCMaster University.
 
+<h3>My PhD Thesis</h3>
+* Safer-HRC: a methodology for safety assessment through formal verification in human-robot collaboration (Jan 2020). Politecnico di Milano, Milan, Italy.
+
+<h3>Co-Supervision of MSc Students Thesis/h3>
+* Tiryakiler,Omer(2019).Co-simulationOfHuman-robotCollaboration(COSIM-HRC):FromTemporalLogicTo3DMorse. Politecnico di Milano.
+* Buran,Federico(2018).Model-drivenriskanalysisforthedesignofsafecollaborativeroboticapplications.Politecnicodi Milano.
+* Lestingi,LiviaandSamueleLongoni(2017).HRC-TEAM:AModel-drivenApproachtoFormalVerificationandDeployment of Collaborative Robotic Applications. Politecnico di Milano.
+
 <h3>Presentations</h3>
 * Assurance of Complex Software-Intensive Systems using WorkFlow+, MODELS Tutorial Track (2020). https://workflowplus.github.io/.
 * Safety Assessment of Collaborative Robotics Through Automated Formal Verification, International Conference on Robotics and Automation ICRA (2020).
