@@ -39,9 +39,9 @@ author_profile: true
 * Safer-HRC: a methodology for safety assessment through formal verification in human-robot collaboration (Jan 2020). Politecnico di Milano, Milan, Italy.
 
 <h3>Co-Supervision of MSc Students Thesis </h3>
-* Tiryakiler,Omer(2019).Co-simulationOfHuman-robotCollaboration(COSIM-HRC):FromTemporalLogicTo3DMorse. Politecnico di Milano.
-* Buran,Federico(2018).Model-drivenriskanalysisforthedesignofsafecollaborativeroboticapplications.Politecnicodi Milano.
-* Lestingi,LiviaandSamueleLongoni(2017).HRC-TEAM:AModel-drivenApproachtoFormalVerificationandDeployment of Collaborative Robotic Applications. Politecnico di Milano.
+* Tiryakiler, Omer (2019).Co-simulation Of Human-robot Collaboration (COSIM-HRC): From Temporal Logic To 3D Morse. Politecnico di Milano.
+* Buran, Federico(2018).Model-driven risk analysis for the design of safe collaborative robotic applications. Politecnico di Milano.
+* Lestingi,Livia and Samuele Longoni(2017). HRC-TEAM: A Model-driven Approach to Formal Verification and Deployment of Collaborative Robotic Applications. Politecnico di Milano.
 
 <h3>Presentations</h3>
 * Assurance of Complex Software-Intensive Systems using WorkFlow+, MODELS Tutorial Track (2020). https://workflowplus.github.io/.
