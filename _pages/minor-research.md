@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Minor-research"
+title: "Minor Research"
 permalink: /minor-research/
 author_profile: true
 ---
