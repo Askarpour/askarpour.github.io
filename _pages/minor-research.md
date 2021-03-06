@@ -7,8 +7,8 @@ author_profile: true
 
 
 <h3>Quantum Computing</h3>
-I recently developed an interest in Quantum Computing. I had the opportunity to co-advice a group of motivated students for a course by [Prof. Di Nitto](https://dinitto.faculty.polimi.it/) at Politecnico di Milano. They started to figure out efficient implementations for existing Quantum circuits using IBM Qiskit library.
-We recently published a paper about generalizing Exactly-1 SAT Solvers using Qiskit, in 1st Quantum Software Engineering and Technology Workshop (QSET).
+I recently developed an interest in Quantum Computing. I had the opportunity to co-advice a group of motivated students for a course by [Prof. Di Nitto](https://dinitto.faculty.polimi.it/) at Politecnico di Milano. They started to figure out efficient implementations for existing Quantum circuits using the IBM Qiskit library.
+We recently published a paper about generalizing Exactly-1 SAT Solvers using Qiskit, in the 1st Quantum Software Engineering and Technology Workshop (QSET).
 
 * “Generalizing an Exactly-1 SAT Solver for Arbitrary Numbers of Variables, Clauses, and K” (2020). In: 1st Quantum Software Engineering and Technology Workshop (QSET).
 
