@@ -5,14 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
 <h3>Undergraduate Courses at McMaster</h3>
 * Discrete Mathematics with Applications II, Winter 2021, Instructor.
 
 <h3>Undergraduate Courses at Politecnico di Milano</h3>
-(TA = Teaching Assistant)
 
-* Theory of Computer Science, Computation and Algorithms, Spring 2019, TA, Instructor: [Prof. Matteo Rossi](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?EVN_PRODOTTI=evento&k_doc=143828&lang=EN&polij_device_category=DESKTOP&__pj0=0&__pj1=1e82f3bc28c8f9325c2112a7112cbad2).
+* Theory of Computer Science, Computation and Algorithms, Spring 2019, Teaching Assistant (TA), Instructor: [Prof. Matteo Rossi](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?EVN_PRODOTTI=evento&k_doc=143828&lang=EN&polij_device_category=DESKTOP&__pj0=0&__pj1=1e82f3bc28c8f9325c2112a7112cbad2).
 * Theory of Computer Science, Computation and Algorithms, Spring 2018, TA, Instructor: [Prof. Matteo Rossi](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?EVN_PRODOTTI=evento&k_doc=143828&lang=EN&polij_device_category=DESKTOP&__pj0=0&__pj1=1e82f3bc28c8f9325c2112a7112cbad2).
 * Fundamentals of Computer Science (Programming in C), Winter 2018, TA, Instructor: [Prof. Raffaela Mirandola](https://mirandola.faculty.polimi.it/).
 * Algorithms and Parallel Computing (Programming in C++), Winter 2017, TA, Instructor: [Prof. Danilo Ardagna](https://ardagna.faculty.polimi.it/).
