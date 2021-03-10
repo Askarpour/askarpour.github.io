@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &M_Askarpour
+  username                 : "&M_Askarpour"
 # facebook:
 #   username               :
 #   app_id                 :
