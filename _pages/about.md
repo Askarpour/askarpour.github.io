@@ -44,7 +44,3 @@ As of Aprile 2021, I'll be a Software Safety Engineer at Automated Driving & Act
 <h3>Contact</h3>
 
 Email: askarpom  at  mcmaster  dot  ca
-
-[Twitter](https://twitter.com/M_Askarpour)
-
-[LinkedIn](https://www.linkedin.com/in/m-askarpour/)
