@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "PostDoc @ McMaster"
   avatar           : "me.png"
-#   bio              : ""
+  bio              : ""
   location         : "Toronto, CA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
