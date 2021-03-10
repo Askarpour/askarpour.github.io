@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mehrnoosh Askarpour"
+  name             : "PostDoc @ McMaster"
   avatar           : "me.png"
-  bio              : "PostDoc @ McMaster"
+#   bio              : ""
   location         : "Toronto, CA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
