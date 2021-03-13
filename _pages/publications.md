@@ -11,6 +11,8 @@ author_profile: true
 * “Safety Assessment of Collaborative Robotics through Automated Formal Verification”(2019). In: IEEE Transactions on Robotics.
 
 <h3>Conference Proceedings and Workshops</h3>
+* "Robotic Mission Adaptation eXemplars" (2021). In: Artifacts Track of 16th Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS). co-located with ICSE 2021.
+* “Experimental Implementation of Discrete Time Quantum Walk with the IBM Qiskit Library” (2021). In: Second International Workshop on Quantum Software Engineering (Q-SE). co-located with ICSE 2021.
 * “How to Formally Model Human in Collaborative Robotics” (2020). In: Second Workshop on Formal Methods for Autonomous Systems.
 * “A Model-driven Approach for the Formal Analysis of Human-Robot Interaction Scenarios” (2020). In: IEEE International Conference On Systems, Man, And Cybernetics.
 * “Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation” (2020).In: First Workshopon Agents and Robots for reliable Engineered Autonomy.
