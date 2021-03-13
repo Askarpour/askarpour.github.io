@@ -14,5 +14,8 @@ We recently published a paper about generalizing Exactly-1 SAT Solvers using Qis
 
 You can find more details about this work [here](https://github.com/Megapiro/Quantum-Computing).
 
-Another work just got accepted at QSE-ICSE which contains experiments to implement efficient coined quantum walk which could be used as a building block for other algorithms to gain speed-up.
+Another work is accepted at QSE-ICSE which contains experiments to implement efficient coined quantum walk which could be used as a building block for other algorithms to gain speed-up.
+
+* "Experimental Implementation of Discrete Time Quantum Walk with the IBM Qiskit Library" (2021). In: Second International Workshop on Quantum Software Engineering (Q-SE). co-located with ICSE 2021.
+
 More detail on this work is [here](https://github.com/Askarpour/sw2_quantum_research/tree/master/Olivieri).
