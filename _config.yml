@@ -113,8 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-#   youtube          : "UCvGY7XdKtlR0TOi_jsagqhQ"
-  youtube_channel  : "https://www.youtube.com/channel/UCvGY7XdKtlR0TOi_jsagqhQ"
+  youtube          : "https://www.youtube.com/channel/UCvGY7XdKtlR0TOi_jsagqhQ"
   wikipedia        :
 
 
@@ -285,6 +284,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 # Plugins
 plugins:
+  - jekyll-youtube
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist

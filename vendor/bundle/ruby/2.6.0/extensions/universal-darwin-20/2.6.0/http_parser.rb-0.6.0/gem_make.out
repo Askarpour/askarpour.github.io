@@ -1,0 +1,22 @@
+current directory: /Users/Mehrnoosh/Desktop/askarpour.github.io/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210315-68678-12iz1ps.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Mehrnoosh/Desktop/askarpour.github.io/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/Mehrnoosh/Desktop/askarpour.github.io/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.2.Internal.sdk/usr/local/lib'
+ld: warning: ignoring file ruby_http_parser.o, building for macOS-arm64e but attempting to link with file built for unknown-arm64
+ld: warning: ignoring file ryah_http_parser.o, building for macOS-arm64e but attempting to link with file built for unknown-arm64
+ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.2.Internal.sdk/usr/local/lib'
+ld: warning: ignoring file ruby_http_parser.o, building for macOS-x86_64 but attempting to link with file built for unknown-arm64
+ld: warning: ignoring file ryah_http_parser.o, building for macOS-x86_64 but attempting to link with file built for unknown-arm64
+
+current directory: /Users/Mehrnoosh/Desktop/askarpour.github.io/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20210315-68678-1qacz2
