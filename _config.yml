@@ -56,8 +56,10 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+youtube:
+username                   : "https://www.youtube.com/channel/UCvGY7XdKtlR0TOi_jsagqhQ"
 # twitter:
-#   username                 : "&M_Askarpour"
+#   username               : "&M_Askarpour"
 # facebook:
 #   username               :
 #   app_id                 :
@@ -113,7 +115,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCvGY7XdKtlR0TOi_jsagqhQ"
+  # youtube          : "https://www.youtube.com/channel/UCvGY7XdKtlR0TOi_jsagqhQ"
   wikipedia        :
 
 
