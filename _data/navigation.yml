@@ -1,0 +1,24 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Tools"
+    url: /tools/
+
+  - title: "Minor Research"
+    url: /minor-research/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+  #
+  # - title: "CV"
+  #   url: /cv/
+  #
+  # - title: "Guide"
+  #   url: /markdown/
