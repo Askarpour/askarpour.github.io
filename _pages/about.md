@@ -25,9 +25,9 @@ My research interests are formal verification, model-based safety analysis and a
 
 <h3>Education</h3>
 
-* Ph.D in Computer Science, Politecnico di Milano, 2018
-* M.S. in Computing Systems Engineering, Politecnico di Milano, 2013
-* B.S. in Computer Science, University of Tehran, 2009
+* Ph.D. in Computer Science, Politecnico di Milano, 2018
+* M.Sc. in Computing Systems Engineering, Politecnico di Milano, 2013
+* B.Sc. in Computer Science, University of Tehran, 2009
 
 <h3>Work experience</h3>
 
