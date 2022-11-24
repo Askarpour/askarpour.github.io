@@ -62,7 +62,7 @@ My research interests are formal verification, model-based safety analysis and a
 <h3>PC Member</h3>
 
  * AAMAS 2023
- * ECMFA 2022
+ * ECMFA 2022 and 2023
  * AREA 2020 
 
 
