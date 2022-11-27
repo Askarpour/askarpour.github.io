@@ -74,7 +74,7 @@ My research interests are formal verification, model-based safety analysis and a
   
 <h3>Contact</h3>
 
-Email: askarpom  at  mcmaster  dot  ca
+ * University Email: askarpom  at  mcmaster  dot  ca
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
