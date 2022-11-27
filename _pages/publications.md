@@ -33,6 +33,7 @@ author_profile: true
 
 <h3>Informal Papers</h3>
 
+* "Search-based Software Testing Driven by Automatically Generated and Manually Defined Fitness Functions" (2022). [ArXiv](https://arxiv.org/abs/2207.11016)
 * "Is the Rush to Machine Learning Jeopardizing Safety? Results of a Survey" (2021). [ArXiv](https://arxiv.org/abs/2111.14324)
 * "Observations on Transitioning to Teaching Computer Science Online" (2021). [ArXiv](https://arxiv.org/abs/2112.11186)
 
