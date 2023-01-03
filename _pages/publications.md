@@ -7,7 +7,7 @@ author_profile: true
 
 <h3>Journals</h3>
 
-
+* "Mission Specification Patterns for Mobile Robots: Providing Support for Quantitative Properties" (2022). In: IEEE Transactions on Software Engineering.
 * “A Deployment Framework for Formally Verified Human-Robot Interactions” (2021). In: IEEE Access.
 * "Formally-based Model-Driven Development of Collaborative Robotic Applications" (2021). In: Journal of Intelligent & Robotic Systems.
 * “Safety Assessment of Collaborative Robotics through Automated Formal Verification”(2020). In: IEEE Transactions on Robotics.
