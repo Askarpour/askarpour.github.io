@@ -10,7 +10,7 @@ redirect_from:
 
 <h3>Welcome to my page!</h3>
 
-I am an adjunct Professor at McMaster University and a lead software safety analyst at SDV (Software Defined Vehicles) -- General Motors Canada.
+I am an adjunct Professor at McMaster University and a lead software safety analyst at SDV (Software Defined Vehicles) ADAS (Active Safety and Autonomous Driving)-- General Motors Canada.
 
 I was a postdoc at [Mcscert Research Team](https://www.mcscert.ca/mcscert-research-team/), Department of Computing and Software, McMaster University from April 2020 to April 2021, following a short visiting period in 2019 (Aug - Oct). I worked on the model-based safety analysis of automotive software in a [project](https://www.eng.mcmaster.ca/news/mcmaster-engineering-researchers-awarded-funding-advance-software-safety-next-generation) funded by General Motors.
 
