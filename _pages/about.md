@@ -61,16 +61,17 @@ My research interests are formal verification, model-based safety analysis and a
 
 <h3>PC Member</h3>
 
- * AAMAS 2023
- * ECMFA 2022 and 2023
- * AREA 2020 
+ * [AAMAS 2023](https://aamas2023.soton.ac.uk/)
+ * [ECMFA 2022](https://davidediruscio.github.io/ECMFA2022/) and [2023](https://conf.researchr.org/home/ecmfa-2023)
+ * [AREA 2020](https://area2020.github.io/)
+ * PASSAC
 
 
 <h3>Organizer</h3>
- * AREA 2022
+ * [AREA 2022](https://areaworkshop.github.io/AREA2022/)
 
-<h3>Editor</h3> 
- * MDPI Special Issue "Agents and Robots for Reliable Engineered Autonomy 2023"
+<!-- <h3>Editor</h3> 
+ * MDPI Special Issue "Agents and Robots for Reliable Engineered Autonomy 2023" -->
   
 <h3>Contact</h3>
 
