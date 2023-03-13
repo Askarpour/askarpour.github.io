@@ -71,8 +71,8 @@ My research interests are formal verification, model-based safety analysis and a
 <h3>Organizer</h3>
  * [AREA 2022](https://areaworkshop.github.io/AREA2022/)
 
-<!-- <h3>Editor</h3> 
- * MDPI Special Issue "Agents and Robots for Reliable Engineered Autonomy 2023" -->
+<h3>Editor</h3> 
+ * MDPI Special Issue "Agents and Robots for Reliable Engineered Autonomy 2023"
   
 <h3>Contact</h3>
 
