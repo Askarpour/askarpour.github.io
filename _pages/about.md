@@ -65,7 +65,6 @@ My research interests are formal verification, model-based safety analysis and a
  * [AAMAS 2023](https://aamas2023.soton.ac.uk/)
  * [ECMFA 2022](https://davidediruscio.github.io/ECMFA2022/) and [2023](https://conf.researchr.org/home/ecmfa-2023)
  * [AREA 2020](https://area2020.github.io/)
- * PASSAC
  * [HoWCoM](https://howcom2023.github.io/)
 
 
