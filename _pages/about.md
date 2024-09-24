@@ -10,7 +10,7 @@ redirect_from:
 
 <h3>Welcome to my page!</h3>
 
-I am an adjunct Professor at McMaster University and a lead software safety analyst at SDV (Software Defined Vehicles) ADAS (Active Safety and Autonomous Driving)-- General Motors Canada.
+I am an adjunct Professor at McMaster University and a senior software safety analyst at SDV (Software Defined Vehicles) ADAS (Active Safety and Autonomous Driving)-- General Motors Canada.
 
 I was a postdoc at [Mcscert Research Team](https://www.mcscert.ca/mcscert-research-team/), Department of Computing and Software, McMaster University from April 2020 to April 2021, following a short visiting period in 2019 (Aug - Oct). I worked on the model-based safety analysis of automotive software in a [project](https://www.eng.mcmaster.ca/news/mcmaster-engineering-researchers-awarded-funding-advance-software-safety-next-generation) funded by General Motors.
 
@@ -31,7 +31,7 @@ My research interests are formal verification, model-based safety analysis and a
 
 <h3>Work experience</h3>
 
-* Lead Software Safety Analyst (April 2022 - Ongoing)         
+* Senior Software Safety Analyst (April 2022 - Ongoing)         
   * General Motors, Canada
 
 * Software Safety Analyst (April 2021 - April 2022)         
@@ -51,20 +51,13 @@ My research interests are formal verification, model-based safety analysis and a
 
 
 
-<h3>Reviewer</h3>
-
- * 2023: MODELS
- * 2022: MODELS - ECMFA  -  IEEE RA-L   -  Frontiers in Robotics and AI  -  Transactions on Embedded Computing Systems
- * 2021: ACM TAAS - Frontiers in Robotics and AI  - ICAR -  IEEE SMC  - IEEE RA-L  - MDPI Robotics  -  MODELS  - RESS  - RCIM
- * More: RCIM  -  IEEE Access  -  FSDM -  IEEE TRO -  SAFECOMP
-
-
 
 <h3>PC Member</h3>
-
+ * [ASYDE 2024](https://asyde-series.github.io/asyde2024/)
+ * [SASSUR 2024](https://sites.google.com/view/sassur2024)
  * [AAMAS 2023](https://aamas2023.soton.ac.uk/)
  * [ECMFA 2022](https://davidediruscio.github.io/ECMFA2022/) and [2023](https://conf.researchr.org/home/ecmfa-2023)
- * [AREA 2020](https://area2020.github.io/)
+ * [AREA 2020-24](https://areaworkshop.github.io/AREA2024/#dates)
  * [HoWCoM](https://howcom2023.github.io/)
 
 
@@ -73,10 +66,7 @@ My research interests are formal verification, model-based safety analysis and a
 
 <h3>Editor</h3> 
  * MDPI Special Issue "Agents and Robots for Reliable Engineered Autonomy 2023"
-  
-<h3>Contact</h3>
 
- * University Email: askarpom  at  mcmaster  dot  ca
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
