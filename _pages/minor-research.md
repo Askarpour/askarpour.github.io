@@ -15,7 +15,7 @@ Find two of our published works below:
 
 * "Experimental Implementation of Discrete Time Quantum Walk with the IBM Qiskit Library" (2021). In: Second International Workshop on Quantum Software Engineering (Q-SE). Co-located with ICSE 2021. [More details](https://github.com/Askarpour/sw2_quantum_research/tree/master/Olivieri) and [presentation](https://www.youtube.com/watch?v=vHR96aF-HkM).
 
-<h3>Agile Development</h3>
+<h3>Agile Development of Safety Critical Systems</h3>
 After working in the automotive industry and observing the challenges of transforming an automaking company into a tech-focused one, I became interested in researching the practical issues surrounding agile development of safety-critical systems which led to the article below.
 
 * "An Exploration of Agile Methods in the Automotive Industry: Benefits, Challenges and Opportunities" (2024). [ArXiv](https://arxiv.org/abs/2409.12676)
