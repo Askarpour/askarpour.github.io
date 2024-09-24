@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h3>Journals</h3>
-
+* "Analyzing the impact of human errors on interactive service robotic scenarios via formal verification" (2024). In: Software and Systems Modeling
 * "Mission Specification Patterns for Mobile Robots: Providing Support for Quantitative Properties" (2022). In: IEEE Transactions on Software Engineering.
 * “A Deployment Framework for Formally Verified Human-Robot Interactions” (2021). In: IEEE Access.
 * "Formally-based Model-Driven Development of Collaborative Robotic Applications" (2021). In: Journal of Intelligent & Robotic Systems.
@@ -14,6 +14,8 @@ author_profile: true
 * “Formal Model of Human Erroneous Behavior for Safety Analysis in Collaborative Robotics”(2019). In: Robotics and Computer-Integrated Manufacturing.
 
 <h3>Conference Proceedings and Workshops</h3>
+* "ATheNA-S: A Testing Tool for Simulink Models Driven by Software Requirements and Domain Expertise" (2024). In: Foundations of Software Engineering (FSE)
+* "Comprehensive Change Impact Analysis Applied to Advanced Automotive Systems" (2024). In: Computer Safety, Reliability, and Security (SAFECOMP)
 * "Robotic Mission Adaptation eXemplars" (2021). In: Artifacts Track of 16th Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS). Co-located with ICSE 2021. [Pitch video](https://www.youtube.com/watch?v=gjS7ZDJVrWI).
 <!-- * “Experimental Implementation of Discrete Time Quantum Walk with the IBM Qiskit Library” (2021). In: Second International Workshop on Quantum Software Engineering (Q-SE). co-located with ICSE 2021. -->
 * “How to Formally Model Human in Collaborative Robotics” (2020). In: Second Workshop on Formal Methods for Autonomous Systems. [Presentation](https://www.youtube.com/watch?v=tirkkbor6Gw).
@@ -36,6 +38,8 @@ author_profile: true
 * "Search-based Software Testing Driven by Automatically Generated and Manually Defined Fitness Functions" (2022). [ArXiv](https://arxiv.org/abs/2207.11016)
 * "Is the Rush to Machine Learning Jeopardizing Safety? Results of a Survey" (2021). [ArXiv](https://arxiv.org/abs/2111.14324)
 * "Observations on Transitioning to Teaching Computer Science Online" (2021). [ArXiv](https://arxiv.org/abs/2112.11186)
+* "An Exploration of Agile Methods in the Automotive Industry: Benefits, Challenges and Opportunities" (2024). [ArXiv](https://arxiv.org/abs/2409.12676)
+
 
 
 
