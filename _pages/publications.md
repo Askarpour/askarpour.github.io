@@ -14,6 +14,7 @@ author_profile: true
 * “Formal Model of Human Erroneous Behavior for Safety Analysis in Collaborative Robotics”(2019). In: Robotics and Computer-Integrated Manufacturing.
 
 <h3>Conference Proceedings and Workshops</h3>
+* "Evaluation of Automotive OTA Updates Using Assurance Cases" (2024). In:Proceedings of the ACM/IEEE 27th International Conference on Model Driven Engineering Languages and Systems
 * "ATheNA-S: A Testing Tool for Simulink Models Driven by Software Requirements and Domain Expertise" (2024). In: Foundations of Software Engineering (FSE)
 * "Comprehensive Change Impact Analysis Applied to Advanced Automotive Systems" (2024). In: Computer Safety, Reliability, and Security (SAFECOMP)
 * "Robotic Mission Adaptation eXemplars" (2021). In: Artifacts Track of 16th Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS). Co-located with ICSE 2021. [Pitch video](https://www.youtube.com/watch?v=gjS7ZDJVrWI).
