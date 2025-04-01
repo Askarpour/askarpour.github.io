@@ -51,11 +51,12 @@ My research interests include formal verification, model-based safety analysis, 
 
 
 <h3>PC Member</h3>
+ * [ASQAP 2025](https://asqap.github.io/asqap2025/)
  * [ASYDE 2024](https://asyde-series.github.io/asyde2024/)
  * [SASSUR 2024](https://sites.google.com/view/sassur2024)
  * [AAMAS 2023](https://aamas2023.soton.ac.uk/)
  * [ECMFA 2022](https://davidediruscio.github.io/ECMFA2022/) and [2023](https://conf.researchr.org/home/ecmfa-2023)
- * [AREA 2020-24](https://areaworkshop.github.io/AREA2024/#dates)
+ * [AREA 2020-25](https://openreview.net/group?id=eurai.org/ECAI/2025/Workshop/AREA&referrer=%5BHomepage%5D(%2F)#tab-recent-activity)
  * [HoWCoM](https://howcom2023.github.io/)
 
 
