@@ -10,7 +10,7 @@ redirect_from:
 
 <h3>Welcome to my page!</h3>
 
-I am an Adjunct Professor at McMaster University and a Senior ADAS (Active Safety and Autonomous Driving) Software Safety Analyst at General Motors Canada.
+I am an Adjunct Professor at McMaster University and a Senior ADAS (Active Safety and Autonomous Driving) Safety Design Software Architect at General Motors Canada.
 
 From April 2020 to April 2021, I was a postdoctoral researcher with the [McSCert Research Team](https://www.mcscert.ca/mcscert-research-team/) in the Department of Computing and Software at McMaster University, following a brief visiting period from August to October 2019. During this time, I focused on model-based safety analysis of automotive software in a [project]((https://www.eng.mcmaster.ca/news/mcmaster-engineering-researchers-awarded-funding-advance-software-safety-next-generation) funded by General Motors.
 
