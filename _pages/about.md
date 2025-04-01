@@ -29,7 +29,7 @@ My research interests include formal verification, model-based safety analysis, 
 
 <h3>Work experience</h3>
 
-* Senior Software Safety Analyst (April 2022 - Ongoing)         
+* Senior Safety Design Software Architect (April 2022 - Ongoing)         
   * General Motors, Canada
 
 * Software Safety Analyst (April 2021 - April 2022)         
