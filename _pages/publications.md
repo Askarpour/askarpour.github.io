@@ -59,6 +59,8 @@ author_profile: true
 * Livia Lestingi and Samuele Longoni (2017). [HRC-TEAM: A Model-driven Approach to Formal Verification and Deployment of Collaborative Robotic Applications](https://www.politesi.polimi.it/handle/10589/135023). Politecnico di Milano.
 
 <h3>Presentations</h3>
+* Digital twins & OTAs: How to Help Safety in Auto Industry, Keynote at [ETAPS 2025 Workshop on Autonomous System Quality Assurance and Prediction with Digital Twins]([url]([https://etaps.org/2025/industry-day/](https://asqap.github.io/asqap2025/)))
+* Agile Development: Ensuring Safety in Rapid Iteration Cycles, [ETAPS 2025 Industry Day ]([url](https://etaps.org/2025/industry-day/)) 
 * Assurance of Complex Software-Intensive Systems using [WorkFlow+](https://arxiv.org/abs/1912.09912), MODELS Tutorial Track (2020).
 * Safety Assessment of Collaborative Robotics Through Automated Formal Verification, International Conference on Robotics and Automation ICRA (2020).
 * Formal Verification-based Risk Assessment for Industrial Human-Robot Collaboration, Prima Conferenza Italiana di Robotica e Macchine Intelligenti (2019).
